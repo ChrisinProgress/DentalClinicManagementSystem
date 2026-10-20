@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Happy Teeth
 
 ## Requirements
@@ -24,3 +25,7 @@
 ## Notes
 - `config.php` is intentionally not committed (contains credentials).
 - If you add a one-time admin setup page, delete it after use.
+=======
+# DentalClinicManagementSystem
+A web-based dental clinic system designed to organize clinic information and support essential record-management processes.
+>>>>>>> 5f53de1d59f9731362d91efee46d6482537a0c9d
